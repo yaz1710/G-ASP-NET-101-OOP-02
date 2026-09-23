@@ -17,7 +17,7 @@ internal class Program
 
    // Classes are better for large applications because they support inheritance, encapsulation, and polymorphism
 
-    #endregion\
+    #endregion
 
 
 
